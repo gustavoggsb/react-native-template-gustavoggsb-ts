@@ -1,5 +1,5 @@
 {
-  "name": "react-native-template-gustavoggsb-ts",
+  "name": "react-native-template-gustavoggsb-typescript",
   "version": "0.0.1",
   "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gustavoggsb/react-native-template-gustavoggsb-ts.git"
+    "url": "git+https://github.com/gustavoggsb/react-native-template-gustavoggsb-typescript.git"
   },
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
   "author": "Gustavo Baptista <gustavogsb@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gustavoggsb/react-native-template-gustavoggsb-ts/issues"
+    "url": "https://github.com/gustavoggsb/react-native-template-gustavoggsb-typescript/issues"
   },
-  "homepage": "https://github.com/gustavoggsb/react-native-template-gustavoggsb-ts#readme"
+  "homepage": "https://github.com/gustavoggsb/react-native-template-gustavoggsb-typescript#readme"
 }
